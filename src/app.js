@@ -12,9 +12,6 @@ import Team from './components/common/Team'
 import Feed from './components/common/Feed'
 
 
-
-
-
 import booksShow from './components/books/Show'
 
 

@@ -8,8 +8,10 @@ const HtmlWebpackPlugin = require('html-webpack-plugin')
 const environmentPlugin = process.env.NODE_ENV === 'production' ? (
   new webpack.EnvironmentPlugin({ ...process.env })
 ) : (
-  new Dotenv()
-)
+    new Dotenv()
+  )
+
+
 
 module.exports = {
   entry: './src/app.js',
