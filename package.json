@@ -9,8 +9,8 @@
     "run:client": "webpack-dev-server",
     "run:server": "nodemon",
     "seed": "node seeds",
-    "build": "webpack -p",
-    "start": "node index",
+    "build": "npm run seed; webpack -p",
+    "start": "node index.js",
     "serve": "webpack-dev-server --mode=development"
   },
   "dependencies": {
