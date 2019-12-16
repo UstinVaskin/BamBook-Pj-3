@@ -1,7 +1,8 @@
 !['Sign-Up-Flow'](https://i.imgur.com/cCvPghk.png )
 !['Sign-Up-Flow'](https://i.imgur.com/JKZJWdY.gif )
 
-
+Deployed project here: 
+https://bambooklove.herokuapp.com 
 
 # Start: 
 # Installation
